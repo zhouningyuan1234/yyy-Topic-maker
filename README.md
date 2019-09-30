@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>banzhuan</title>
+		<title>chutiren</title>
 		<style type="text/css">
 		<!--
 			.purple{color:#FF00FF}
