@@ -13,7 +13,7 @@
       <span class="purple">
         出题规则:<br>
         每一个星期为团队出一道题<br>
-        每个月工资50积分。<br>
+        每个月工资50货币。<br>
       </span>
     </div>
 	</body>
